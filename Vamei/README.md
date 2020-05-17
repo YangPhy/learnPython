@@ -2,4 +2,7 @@
 作者：Vamei 出处：http://www.cnblogs.com/vamei 欢迎转载，也请保留这段声明。谢谢！
 R.I.P Vamei.
 
-## [Hello world](helloWorld/README.md)
+## Python基础
+### [Python基础01: Hello world](helloWorld/README.md)
+### [Python基础02: 基本数据类型](variables/README.md)
+
