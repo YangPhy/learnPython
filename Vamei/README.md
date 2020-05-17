@@ -2,4 +2,4 @@
 作者：Vamei 出处：http://www.cnblogs.com/vamei 欢迎转载，也请保留这段声明。谢谢！
 R.I.P Vamei.
 
-## [Hello world](helloWorld/READMD.md)
+## [Hello world](helloWorld/README.md)
