@@ -68,3 +68,11 @@ s4 = []
 >>>str = 'abcdef'
 >>>print(str[2:4])
 ```
+
+## Summary
+tuple元素不可变，list元素可变
+序列的引用
+```
+s[2], s[1:8:2]
+```
+字符串是一种tuple
