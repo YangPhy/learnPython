@@ -12,6 +12,7 @@ R.I.P Vamei.
 ### [Python基础06: 循环](loop/README.md)
 ### [Python基础07: 函数](function/README.md)
 ### [Python基础08: 面向对象的基本概念](object1/README.md)
+### [Python基础09: 面向对象的进一步拓展](object2/README.md)
 
 
 
