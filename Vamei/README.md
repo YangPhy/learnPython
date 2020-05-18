@@ -15,6 +15,7 @@ R.I.P Vamei.
 ### [Python基础09: 面向对象的进一步拓展](object2/README.md)
 ### [Python基础10: 反过头来看看](review/README.md)
 
-
+## Python进阶
+### [Python进阶01: 词典](dictionary/README.md)
 
 
