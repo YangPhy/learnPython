@@ -8,4 +8,5 @@ R.I.P Vamei.
 ### [Python基础03: sequence 序列](sequence/README.md)
 ### [Python基础04: 运算](operation/README.md)
 ### [Python基础05: 缩进和选择](indentation/README.md)
+### [Python基础06: 循环](loop/README.md)
 
