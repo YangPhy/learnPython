@@ -1,4 +1,4 @@
-## Hello world
+## Python基础01: Hello world
 ### Python命令行
 Linux下，在命令行输入
 ```

@@ -1,4 +1,4 @@
-## sequence 序列
+## Python基础03: sequence 序列
 
 ### sequence
 sequence 是一组**有顺序的元素**的集合。
