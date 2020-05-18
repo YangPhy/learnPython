@@ -5,4 +5,5 @@ R.I.P Vamei.
 ## Python基础
 ### [Python基础01: Hello world](helloWorld/README.md)
 ### [Python基础02: 基本数据类型](variables/README.md)
+### [Python基础03: sequence 序列](sequence/README.md)
 
