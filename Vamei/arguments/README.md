@@ -62,7 +62,7 @@ func(m=2,n=1,c=11)
 包裹传递的关键在于定义函数时，在相应元组或字典前加*或**。
 
 ### 解包裹
-*和**，也可以在调用的时候使用，即解包裹(unpacking): [Example6](arguments6.py)
+\*和\**，也可以在调用的时候使用，即解包裹(unpacking): [Example6](arguments6.py)
 ```
 def func(a,b,c):
     print a,b,c
