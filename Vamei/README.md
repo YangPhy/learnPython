@@ -22,6 +22,12 @@ R.I.P. Vamei.
 ### [Python进阶04: 函数的参数对应](arguments/README.md)
 ### [Python进阶05: 循环设计](loop2/README.md)
 ### [Python进阶06: 循环对象](loop3/README.md)
+### [Python进阶07: 函数对象](function2/README.md)
+### [Python进阶08: 异常处理](exception/README.md)
+
+
+
+
 
 
 
