@@ -24,6 +24,7 @@ R.I.P. Vamei.
 ### [Python进阶06: 循环对象](loop3/README.md)
 ### [Python进阶07: 函数对象](function2/README.md)
 ### [Python进阶08: 异常处理](exception/README.md)
+### [Python进阶09: 动态类型](dynamictyping/README.md)
 
 
 
