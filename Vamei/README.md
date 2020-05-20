@@ -27,7 +27,7 @@ R.I.P. Vamei.
 ### [Python进阶09: 动态类型](dynamictyping/README.md)
 
 ## Python深入
-### [Python深入01: 特殊方法与多范式](multi_paradigm/README.md)
+### [Python深入01: 特殊方法与多范式](special_method/README.md)
 
 
 
