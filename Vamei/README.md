@@ -30,6 +30,9 @@ R.I.P. Vamei.
 ### [Python深入01: 特殊方法与多范式](special_method/README.md)
 ### [Python深入02: 上下文管理器](context_manager/README.md)
 ### [Python深入03: 对象的属性](object_attribute/README.md)
+### [Python深入04: 闭包](closure/README.md)
+
+
 
 
 
