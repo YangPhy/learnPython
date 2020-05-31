@@ -34,6 +34,8 @@ R.I.P. Vamei.
 ### [Python深入05: 装饰器](decorator/README.md)
 ### [Python深入06: Python的内存管理](memory/README.md)
 
+## Python 补充
+### [Python补充01: 序列的方法](sequence2/README.md)
 
 
 
