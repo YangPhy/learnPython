@@ -32,6 +32,7 @@ R.I.P. Vamei.
 ### [Python深入03: 对象的属性](object_attribute/README.md)
 ### [Python深入04: 闭包](closure/README.md)
 ### [Python深入05: 装饰器](decorator/README.md)
+### [Python深入06: Python的内存管理](memory/README.md)
 
 
 
