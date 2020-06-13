@@ -37,6 +37,7 @@ R.I.P. Vamei.
 ## Python 补充
 ### [Python补充01: 序列的方法](sequence2/README.md)
 ### [Python补充02: Python小技巧](tricks/README.md)
+### [Python补充03: Python内置函数清单](fins/README.md)
 
 
 
