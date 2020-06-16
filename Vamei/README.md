@@ -44,6 +44,7 @@ R.I.P. Vamei.
 
 ## Python 标准库
 ### [Python 标准库000: 走马观花](std000/README.md)
+### [Python 标准库001: 学习准备](std001/README.md)
 
 
 
