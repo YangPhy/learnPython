@@ -43,6 +43,7 @@ R.I.P. Vamei.
 ### [Python补充06: Python之道](zen/README.md)
 
 ## Python 标准库
+### [Python 标准库000: 走马观花](std000/README.md)
 
 
 
