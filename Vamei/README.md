@@ -40,8 +40,9 @@ R.I.P. Vamei.
 ### [Python补充03: Python内置函数清单](fins/README.md)
 ### [Python补充04: Python简史](https://www.cnblogs.com/vamei/archive/2013/02/06/2892628.html)
 ### [Python补充05: 字符串格式化 (%操作符)](pain/README.md)
-### [Python补充06: Python之道)](zen/README.md)
+### [Python补充06: Python之道](zen/README.md)
 
+## Python 标准库
 
 
 
