@@ -49,6 +49,8 @@ R.I.P. Vamei.
 ### [Python 标准库02: 时间与日期 (time, datetime包)](std02/README.md)
 ### [Python 标准库03: 路径与文件 (os.path包, glob包)](std03/README.md)
 ### [Python 标准库04: 文件管理 (部分os包，shutil包)](std04/README.md)
+### [Python 标准库05: 存储对象 (pickle包，cPickle包)](std05/README.md)
+
 
 
 
