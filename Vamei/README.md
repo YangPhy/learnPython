@@ -52,6 +52,10 @@ R.I.P. Vamei.
 ### [Python 标准库05: 存储对象 (pickle包，cPickle包)](std05/README.md)
 ### [Python 标准库06: 子进程 (subprocess包)](std06/README.md)
 ### [Python 标准库07: 信号 (signal包，部分os包)](std07/README.md)
+### [Python 标准库08: 多线程与同步 (threading包)](std08/README.md)
+
+
+
 
 
 
