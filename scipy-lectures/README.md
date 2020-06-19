@@ -1,1 +1,1 @@
-## This is my note followint the [Scipy Lecture Notes](http://scipy-lectures.org/)
+## This is my note following the [Scipy Lecture Notes](http://scipy-lectures.org/)
