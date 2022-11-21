@@ -16,7 +16,7 @@ def laugh():
 import first
 
 for i in range(10):
-    first.laugh(
+    first.laugh()
 ```
 在second.py中，我们使用了first.py中定义的laugh()函数。
 
