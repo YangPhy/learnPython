@@ -28,7 +28,11 @@ python helloWorld.py
 运行该程序。
 
 ### 脚本
-可以将helloWorld.py改写成一个可执行的脚本[hello.py](hello.py)。在使用
+可以将helloWorld.py改写成一个可执行的脚本[hello.py](hello.py)。并在文件开头加入
+```
+#! /usr/bin/env python3
+```
+在使用
 ```
 chmod +x hello.py
 ```
